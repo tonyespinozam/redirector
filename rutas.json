@@ -1,3 +1,6 @@
 [
-  {"server_inavi":"bore.pub:16235"}
+  {
+    "server_inavi":"bore.pub:16235",
+    "server_damatera":"bore.pub:1623555"
+  }
 ]
